@@ -13,4 +13,3 @@ alias ....='cd ../..'
 alias gl='git log --branches --remotes --tags --graph --oneline --decorate'
 alias gg='git log --graph --abbrev-commit --decorate --date=relative --all'
 source ~/.profile
-export PATH=/Users/Thoughtworker/pricing/loki/modules/transformer/src/main/webapp/node_modules/grunt-cli/bin:$PATH # added by loki jasmine setup script
